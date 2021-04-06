@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.2.16)  5 APR 2021 23:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.2.16)  6 APR 2021 19:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Starchenko_212.tex
-(./Starchenko_212.tex
+**Starchenko_221.tex
+(./Starchenko_221.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 \@input{head.aux}
@@ -1344,8 +1344,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 46.
 )
-(./Starchenko_212.aux)
-\openout1 = `Starchenko_212.aux'.
+(./Starchenko_221.aux)
+\openout1 = `Starchenko_221.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
@@ -1423,38 +1423,29 @@ LaTeX Info: Redefining \ref on input line 3.
 LaTeX Info: Redefining \pageref on input line 3.
 LaTeX Info: Redefining \nameref on input line 3.
 
-(./Starchenko_212.out) (./Starchenko_212.out)
+(./Starchenko_221.out) (./Starchenko_221.out)
 \@outlinefile=\write4
-\openout4 = `Starchenko_212.out'.
+\openout4 = `Starchenko_221.out'.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 15.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 24.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 24.
+LaTeX Font Info:    Try loading font information for U+msa on input line 26.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 15.
+LaTeX Font Info:    Try loading font information for U+msb on input line 26.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+wasy on input line 15.
+LaTeX Font Info:    Try loading font information for U+wasy on input line 26.
 
 (/usr/share/texlive/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
 )
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
-
- []
-
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 24.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 24.
-<images/graph_teor.png, id=35, 504.38437pt x 330.48468pt>
-File: images/graph_teor.png Graphic file (type png)
-<use images/graph_teor.png>
-Package pdftex.def Info: images/graph_teor.png  used on input line 27.
-(pdftex.def)             Requested size: 378.28734pt x 247.8629pt.
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1462,18 +1453,23 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 33.
+(babel)             in language  on input line 35.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 33.
+(babel)             in language  on input line 35.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 33.
+(babel)             in language  on input line 35.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 33.
+(babel)             in language  on input line 35.
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
 
- <./images/graph_teor.png (PNG copy)>]
+]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 51.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 51.
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1481,76 +1477,39 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 42.
+(babel)             in language  on input line 54.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 42.
+(babel)             in language  on input line 54.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 42.
+(babel)             in language  on input line 54.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 42.
+(babel)             in language  on input line 54.
 [2]
+<images/2211.png, id=69, 90.3375pt x 196.48407pt>
+File: images/2211.png Graphic file (type png)
+<use images/2211.png>
+Package pdftex.def Info: images/2211.png  used on input line 56.
+(pdftex.def)             Requested size: 90.33727pt x 196.48358pt.
 
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 57.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 57.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 57.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 57.
-[3]
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 61.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 61.
-<images/ustan.png, id=63, 388.45125pt x 229.60782pt>
-File: images/ustan.png Graphic file (type png)
-<use images/ustan.png>
-Package pdftex.def Info: images/ustan.png  used on input line 66.
-(pdftex.def)             Requested size: 291.3377pt x 172.20543pt.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 70.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 70.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 73.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 73.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 73.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 73.
-[4 <./images/ustan.png (PNG copy)>]
-Overfull \hbox (28.62617pt too wide) in paragraph at lines 87--97
+Overfull \hbox (0.63893pt too wide) in paragraph at lines 56--57
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--97
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--97
-
- []
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 105.
+(babel)             in language  on input line 71.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 105.
+(babel)             in language  on input line 71.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 71.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 71.
+[3 <./images/2211.png (PNG copy)>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1558,52 +1517,43 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 109.
+(babel)             in language  on input line 95.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 109.
+(babel)             in language  on input line 95.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 109.
+(babel)             in language  on input line 95.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 109.
+(babel)             in language  on input line 95.
+[4]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 100.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 100.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 106.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 106.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 106.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 106.
 [5]
-Overfull \hbox (3.02489pt too wide) in paragraph at lines 117--118
-[]\T2A/cmr/m/n/12 Рассчитаем по-греш-но-сти по-лу-чен-ной ве-ли-чи-ны в про-гра
-м-ме MATLAB
- []
-
-
-Overfull \hbox (6.15752pt too wide) detected at line 121
-[][]\OML/cmm/m/it/12 ^^[[] \OT1/cmr/m/n/12 = [] \OMS/cmsy/m/n/12 ) \OML/cmm/m/i
-t/12 ^^[[] \OT1/cmr/m/n/12 = 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 0136
- []
-
+<images/2212.png, id=91, 365.11406pt x 343.2825pt>
+File: images/2212.png Graphic file (type png)
+<use images/2212.png>
+Package pdftex.def Info: images/2212.png  used on input line 113.
+(pdftex.def)             Requested size: 244.62514pt x 229.99806pt.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 145.
+(babel)             in language  on input line 116.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 145.
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 149.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 149.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 149.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 149.
-[6]
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 156.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 156.
-
-Underfull \hbox (badness 10000) in paragraph at lines 158--159
-
- []
+(babel)             in language  on input line 116.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1612,27 +1562,253 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 162.
+(babel)             in language  on input line 119.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 162.
+(babel)             in language  on input line 119.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 162.
+(babel)             in language  on input line 119.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 162.
+(babel)             in language  on input line 119.
+[6 <./images/2212.png (PNG copy)>]
+<images/2213.png, id=97, 384.6872pt x 244.66406pt>
+File: images/2213.png Graphic file (type png)
+<use images/2213.png>
+Package pdftex.def Info: images/2213.png  used on input line 126.
+(pdftex.def)             Requested size: 384.68625pt x 244.66345pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 127.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 127.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 127.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 127.
 [7]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 164.
+(babel)             in language  on input line 130.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 164.
-<graph_1.png, id=92, 429.2838pt x 316.0608pt>
+(babel)             in language  on input line 130.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 130.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 130.
+[8 <./images/2213.png (PNG copy)>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 132.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 132.
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--149
+
+ []
+
+
+Overfull \hbox (2.95125pt too wide) in paragraph at lines 151--161
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--161
+
+ []
+
+
+Overfull \hbox (2.95125pt too wide) in paragraph at lines 165--179
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--179
+
+ []
+
+
+Overfull \hbox (2.95125pt too wide) in paragraph at lines 181--195
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--195
+
+ []
+
+
+Overfull \hbox (2.95125pt too wide) in paragraph at lines 197--211
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--211
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 213.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 213.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 213.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 213.
+[9]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 213.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 213.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 213.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 213.
+[10]
+Overfull \hbox (1.91377pt too wide) in paragraph at lines 238--243
+\T2A/cmr/m/n/12 -- ко-эф-фи-ци-ент вза-им-ной диф-фу-зии при ат-мо-сфер-ном дав
+лении($\OML/cmm/m/it/12 D\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 P[]\OT1/cmr/m/n/12 )
+$\T2A/cmr/m/n/12 ) 
+ []
+
+
+Overfull \hbox (34.70738pt too wide) in paragraph at lines 238--243
+\T2A/cmr/m/n/12 -- эф-фек-тив-ное се-че-ние столк-но-ве-ний мо-ле-кул ге-лия с 
+мо-ле-ку-ла-ми воздуха($\OML/cmm/m/it/12 S[]$\T2A/cmr/m/n/12 ) 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--243
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 252.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 252.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 252.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 252.
+[11]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 260.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 290.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 290.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 290.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 290.
+[12]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 322.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 322.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 322.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 322.
+[13]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 359.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 359.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 359.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 359.
+[14]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 361.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 361.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 372.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 372.
+
+Underfull \hbox (badness 10000) in paragraph at lines 374--375
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 378.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 378.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 378.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 378.
+[15]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 380.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 380.
+<graph_1.png, id=164, 421.575pt x 316.0608pt>
 File: graph_1.png Graphic file (type png)
 <use graph_1.png>
-Package pdftex.def Info: graph_1.png  used on input line 168.
-(pdftex.def)             Requested size: 429.28275pt x 316.06003pt.
-
-Overfull \hbox (39.28275pt too wide) in paragraph at lines 168--169
- [] 
- []
+Package pdftex.def Info: graph_1.png  used on input line 383.
+(pdftex.def)             Requested size: 286.66719pt x 214.9185pt.
+<graph_2.png, id=165, 429.2838pt x 316.0608pt>
+File: graph_2.png Graphic file (type png)
+<use graph_2.png>
+Package pdftex.def Info: graph_2.png  used on input line 386.
+(pdftex.def)             Requested size: 291.90912pt x 214.9185pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1641,48 +1817,52 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 172.
+(babel)             in language  on input line 389.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 172.
+(babel)             in language  on input line 389.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 172.
+(babel)             in language  on input line 389.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 172.
-[8 <./graph_1.png (PNG copy)>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 172.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 172.
- (./Starchenko_212.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 172.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 172.
-Package rerunfilecheck Info: File `Starchenko_212.out' has not changed.
-(rerunfilecheck)             Checksum: 5B72F7AE627E7F7C3C4F58DE414FDD72;1421.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 172.
+(babel)             in language  on input line 389.
+[16 <./graph_1.png (PNG copy)> <./graph_2.png (PNG copy)>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 389.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 389.
+
+(./Starchenko_221.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 389.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 389.
+Package rerunfilecheck Info: File `Starchenko_221.out' has not changed.
+(rerunfilecheck)             Checksum: F25A1182D65D5067D4FF55CC19CADAA1;1843.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 389.
  ) 
 Here is how much of TeX's memory you used:
- 34056 strings out of 492982
- 741040 string characters out of 6134896
- 886953 words of memory out of 5000000
- 37063 multiletter control sequences out of 15000+600000
- 19015 words of font info for 58 fonts, out of 8000000 for 9000
+ 34092 strings out of 492982
+ 741412 string characters out of 6134896
+ 905953 words of memory out of 5000000
+ 37061 multiletter control sequences out of 15000+600000
+ 15498 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,13n,98p,1132b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 66i,12n,98p,1716b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
-y8.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/t
-exmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/pub
-lic/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm120
-0.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/te
-xmf/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on Starchenko_212.pdf (8 pages, 329905 bytes).
+mf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></
+usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/font
+s/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-su
+per/sfrm0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></u
+sr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts
+/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-sup
+er/sfrm2074.pfb>
+Output written on Starchenko_221.pdf (16 pages, 390442 bytes).
 PDF statistics:
- 153 PDF objects out of 1000 (max. 8388607)
- 124 compressed objects within 2 object streams
- 27 named destinations out of 1000 (max. 500000)
- 84 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 244 PDF objects out of 1000 (max. 8388607)
+ 201 compressed objects within 3 object streams
+ 64 named destinations out of 1000 (max. 500000)
+ 110 words of extra memory for PDF output out of 10000 (max. 10000000)
 

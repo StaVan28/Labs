@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.2.16)  6 APR 2021 19:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.2.16)  7 APR 2021 09:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1692,9 +1692,9 @@ $\T2A/cmr/m/n/12 )
  []
 
 
-Overfull \hbox (34.70738pt too wide) in paragraph at lines 238--243
-\T2A/cmr/m/n/12 -- эф-фек-тив-ное се-че-ние столк-но-ве-ний мо-ле-кул ге-лия с 
-мо-ле-ку-ла-ми воздуха($\OML/cmm/m/it/12 S[]$\T2A/cmr/m/n/12 ) 
+Overfull \hbox (27.8549pt too wide) in paragraph at lines 238--243
+\T2A/cmr/m/n/12 -- эф-фек-тив-ное се-че-ние столк-но-ве-ний ато-мов ге-лия с мо
+-ле-ку-ла-ми воздуха($\OML/cmm/m/it/12 S[]$\T2A/cmr/m/n/12 ) 
  []
 
 

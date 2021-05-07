@@ -1,0 +1,56 @@
+\documentclass[a4paper, 12pt]{article} % тип документа
+
+%%%Библиотеки
+	%\usepackage[warn]{mathtext}	
+	\usepackage[T2A]{fontenc}   %Кодировка
+	\usepackage[utf8]{inputenc} %Кодировка исходного текста
+	\usepackage[english, russian]{babel} %Локализация и переносы
+	\usepackage{caption}
+	\usepackage{listings}
+	\usepackage{amsmath, amsfonts, amssymb, amsthm, mathtools}
+	\usepackage[warn]{mathtext}
+	\usepackage[mathscr]{eucal}
+	\usepackage{wasysym}
+	\usepackage{graphicx} %Вставка картинок правильная
+	\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+	\graphicspath{ {images/} }
+	
+	\setlength{\parskip}{0.5cm}
+	
+	\usepackage{pgfplots}
+	\usepackage{indentfirst}
+	\usepackage{float}    %Плавающие картинки
+	\usepackage{wrapfig}  %Обтекание фигур (таблиц, картинок и прочего)
+	\usepackage{fancyhdr} %Загрузим пакет
+	\usepackage{lscape}
+	\usepackage{xcolor}
+	\usepackage[normalem]{ulem}
+	\usepackage{wasysym}
+	\usepackage{placeins}	
+	
+	\usepackage{titlesec}
+	\titlelabel{\thetitle.\quad}
+
+	\usepackage{hyperref}
+	\newenvironment{comment}{}{}
+
+%%%Конец библиотек
+
+%%%Настройка ссылок
+	\hypersetup
+	{
+		colorlinks = true,
+		linkcolor  = blue,
+		filecolor  = magenta,
+		urlcolor   = blue
+	}
+%%%Конец настройки ссылок
+
+
+%%%Настройка колонтитулы
+	\pagestyle{fancy}
+	\fancyhead{}
+	\fancyhead[L]{2.1.4}
+	\fancyhead[R]{Старченко Иван, группа Б01-005}
+	\fancyfoot[C]{\thepage}
+%%%конец настройки колонтитулы

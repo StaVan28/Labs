@@ -1,0 +1,95 @@
+\documentclass[11pt,a4paper,oneside]{article}
+
+\usepackage [utf8x] {inputenc}
+\usepackage [T2A] {fontenc}
+
+\usepackage{fancybox}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+
+\usepackage{setspace}
+\usepackage{colortbl}
+\usepackage[warn]{mathtext}
+
+\usepackage[labelsep=period]{caption}
+
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{graphicx}
+
+\usepackage{amsmath}
+
+\graphicspath{{picks/}}
+
+\usepackage[shortlabels]{enumitem}
+\usepackage{array}
+\usepackage{ifthen}
+\usepackage{pdfpages}
+\usepackage[strict]{changepage}
+
+\usepackage{tikz}
+\usetikzlibrary{calc}
+\usetikzlibrary{decorations.pathmorphing}
+
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
+
+\usepackage[left=12mm, top=12mm, right=12mm, bottom=28mm, nohead, footskip=10mm]{geometry} % настройки полей документа 20 15 15 35
+
+\newcommand{\sect}[2] {
+    \addtocounter{section}{1}
+    \section*{\Huge\thesection.\,#1}
+    \addcontentsline{toc}{subsection}{ \texorpdfstring{\thesection.\qquad\qquad #2}{Lg}}
+}
+
+\newcommand{\subsec}[2] {
+    \addtocounter{subsection}{1}
+    \subsection*{\thesubsection.\,#1}
+    \addcontentsline{toc}{subsection}{ \texorpdfstring{\quad \thesubsection.\qquad\ #2}{Lg}}
+}
+
+\newcommand{\subsubsec}[2] {
+    \addtocounter{subsubsection}{1}
+    \subsubsection*{\thesubsubsection.\,#1}
+    \addcontentsline{toc}{subsection}{ \texorpdfstring{\quad\quad\ \thesubsubsection. #2}{Lg}}
+}
+
+
+\newcommand{\labnum}{
+    1.2.2
+}
+
+\fancypagestyle{plain}{ %
+	\fancyhf{} % remove everything
+	\renewcommand{\headrulewidth}{0pt} % lines
+	\renewcommand{\footrulewidth}{0pt}
+	
+	\fancyfoot[L]{\ifthenelse{\isodd{\thepage}}{Работа \labnum}{\thepage}}
+	
+	\fancyfoot[R]{\ifthenelse{\isodd{\thepage}}{\thepage}{Работа \labnum}}
+}
+
+\pagestyle{plain}
+
+\begin{document}
+	\setcounter{tocdepth}{4}
+	\setcounter{section}{0}
+	\setcounter{subsection}{0}
+	\setcounter{subsubsection}{0}
+	\textheight = 240mm
+	\footskip = 10mm
+    
+    { % add title page
+        \leftskip = 25mm
+    	\include{2_0title}
+        \leftskip = 10mm
+    }
+    
+    \input{2_1Scheme}
+    
+	\headheight = 0.5cm %размер верхнего колонтитула
+	\headsep = 1.2cm %отступ после верхнего колонтитула
+	
+	\input{3formulas}
+	\input{4experement}
+
+\end{document}

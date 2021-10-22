@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.9.3)  6 SEP 2021 17:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.9.3)  16 SEP 2021 23:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1157,7 +1157,7 @@ LaTeX Font Info:    No file PUcmr.fd. on input line 31.
 LaTeX Font Warning: Font shape `PU/cmr/m/up' undefined
 (Font)              using `PU/pdf/m/n' instead on input line 31.
 
-<images//2.png, id=31, 183.084pt x 208.3785pt>
+<images//2.png, id=39, 183.084pt x 208.3785pt>
 File: images//2.png Graphic file (type png)
 <use images//2.png>
 Package pdftex.def Info: images//2.png  used on input line 52.
@@ -1181,7 +1181,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ]
-<images//3.png, id=55, 304.13625pt x 226.446pt>
+<images//3.png, id=63, 304.13625pt x 226.446pt>
 File: images//3.png Graphic file (type png)
 <use images//3.png>
 Package pdftex.def Info: images//3.png  used on input line 75.
@@ -1216,7 +1216,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [3]
-<images//4.png, id=74, 239.09325pt x 119.2455pt>
+<images//4.png, id=82, 239.09325pt x 119.2455pt>
 File: images//4.png Graphic file (type png)
 <use images//4.png>
 Package pdftex.def Info: images//4.png  used on input line 119.
@@ -1226,7 +1226,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 116--121
 \T2A/cmr/m/n/12 лой
  []
 
-<images//1.png, id=75, 531.1845pt x 298.716pt>
+<images//1.png, id=83, 531.1845pt x 298.716pt>
 File: images//1.png Graphic file (type png)
 <use images//1.png>
 Package pdftex.def Info: images//1.png  used on input line 134.
@@ -1240,30 +1240,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [4 <./images//4.png> <./images//1.png>]
-<images//6.png, id=84, 448.67625pt x 310.15875pt>
-File: images//6.png Graphic file (type png)
-<use images//6.png>
-Package pdftex.def Info: images//6.png  used on input line 156.
-(pdftex.def)             Requested size: 195.0pt x 134.7949pt.
-<images//7.png, id=85, 369.63094pt x 293.59688pt>
-File: images//7.png Graphic file (type png)
-<use images//7.png>
-Package pdftex.def Info: images//7.png  used on input line 157.
-(pdftex.def)             Requested size: 195.0pt x 154.88881pt.
-<images//8.png, id=86, 412.54124pt x 338.76563pt>
-File: images//8.png Graphic file (type png)
-<use images//8.png>
-Package pdftex.def Info: images//8.png  used on input line 158.
-(pdftex.def)             Requested size: 195.0pt x 160.12962pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 171--172
-
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1281,17 +1257,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[6 <./images//6.png (PNG copy)> <./images//7.png (PNG copy)> <./images//8.png (
-PNG copy)>]
-Overfull \hbox (82.10832pt too wide) in paragraph at lines 179--184
- [][] 
- []
-
-
-Overfull \hbox (43.35097pt too wide) in paragraph at lines 190--200
- [] 
- []
-
+[6]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1301,6 +1267,48 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [7]
+<images//9.png, id=112, 421.575pt x 316.0608pt>
+File: images//9.png Graphic file (type png)
+<use images//9.png>
+Package pdftex.def Info: images//9.png  used on input line 226.
+(pdftex.def)             Requested size: 390.0pt x 292.39507pt.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!tbp') on input line 230.
+
+<images//10.png, id=113, 421.575pt x 316.0608pt>
+File: images//10.png Graphic file (type png)
+<use images//10.png>
+Package pdftex.def Info: images//10.png  used on input line 232.
+(pdftex.def)             Requested size: 195.0pt x 146.19511pt.
+<images//11.png, id=114, 421.575pt x 316.0608pt>
+File: images//11.png Graphic file (type png)
+<use images//11.png>
+Package pdftex.def Info: images//11.png  used on input line 233.
+(pdftex.def)             Requested size: 195.0pt x 146.19511pt.
+<images//12.png, id=115, 421.575pt x 316.0608pt>
+File: images//12.png Graphic file (type png)
+<use images//12.png>
+Package pdftex.def Info: images//12.png  used on input line 234.
+(pdftex.def)             Requested size: 195.0pt x 146.19511pt.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!tbp') on input line 238.
+
+<images//18.png, id=116, 421.575pt x 316.0608pt>
+File: images//18.png Graphic file (type png)
+<use images//18.png>
+Package pdftex.def Info: images//18.png  used on input line 240.
+(pdftex.def)             Requested size: 390.0pt x 292.39507pt.
+<images//19.png, id=117, 421.575pt x 316.0608pt>
+File: images//19.png Graphic file (type png)
+<use images//19.png>
+Package pdftex.def Info: images//19.png  used on input line 241.
+(pdftex.def)             Requested size: 390.0pt x 292.39507pt.
+
+LaTeX Warning: Float too large for page by 18.29012pt on input line 243.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1309,18 +1317,54 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[8] (./Starchenko.aux)
+[8 <./images//9.png (PNG copy)>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[9 <./images//10.png (PNG copy)> <./images//11.png (PNG copy)> <./images//12.pn
+g (PNG copy)>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[10 <./images//18.png (PNG copy)> <./images//19.png (PNG copy)>]
+Overfull \hbox (82.10832pt too wide) in paragraph at lines 250--255
+ [][] 
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!tbp') on input line 259.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[11] (./Starchenko.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `Starchenko.out' has not changed.
-(rerunfilecheck)             Checksum: 6D3BEE0F75984C6F963958C145682F0B;1250.
+(rerunfilecheck)             Checksum: E541402F38869EC8C96D2073DEEABA7B;1448.
  ) 
 Here is how much of TeX's memory you used:
- 35133 strings out of 478994
- 767790 string characters out of 5864752
- 1192550 words of memory out of 5000000
- 51977 multiletter control sequences out of 15000+600000
+ 35161 strings out of 478994
+ 768198 string characters out of 5864752
+ 1197552 words of memory out of 5000000
+ 51995 multiletter control sequences out of 15000+600000
  423501 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  109i,12n,108p,1191b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1332,20 +1376,20 @@ cmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></us
 r/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/tex
-mf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/t
-ype1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-
-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0800.
-pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share
-/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fon
-ts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf-dist/fonts/type1/public
-/cm-super/sfrm2074.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1
-200.pfb>
-Output written on Starchenko.pdf (8 pages, 413802 bytes).
+s/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></
+usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/ty
+pe1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-s
+uper/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.p
+fb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/
+texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/font
+s/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/
+cm-super/sfrm1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm20
+74.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on Starchenko.pdf (11 pages, 499505 bytes).
 PDF statistics:
- 196 PDF objects out of 1000 (max. 8388607)
- 157 compressed objects within 2 object streams
- 37 named destinations out of 1000 (max. 500000)
- 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 226 PDF objects out of 1000 (max. 8388607)
+ 180 compressed objects within 2 object streams
+ 44 named destinations out of 1000 (max. 500000)
+ 127 words of extra memory for PDF output out of 10000 (max. 10000000)
 
